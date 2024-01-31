@@ -1,33 +1,26 @@
-# Your Name
+# Nirav J. Motivaras
 ## Contact Information
-- Email: your.email@example.com
+- Email: niravmotivaras9252@gmai.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nirav-motivaras)
 - GitHub: [GitHub Profile](https://github.com/nirav9252)
 
 ## Education
-- Degree in XYZ, University Name, Graduation Year
+- Degree in S.S.C., Sigma Institute of Porbandar, March-2014
+- Degree in H.S.C.(science), Navyug Vidyalaya Porbandar, March-2017
+- Degree in B.C.A., Shiri V. J. Modha College of Information Teach., April-2020
+- Degree in M.sc(IT), Shiri V. J. Modha College of Information Teach., April-2022
 
 ## Experience
-### Job Title, Company Name (Month Year - Present)
+### JavaSciprt Developer, Softyoi LLP (October 2022 - Present)
 - Description of responsibilities and achievements.
 
-### Intern, Another Company (Month Year - Month Year)
+### Intern, SoftYoi LLP (July 2022 - September 2022)
 - Details of your internship experience.
 
 ## Skills
-- Programming languages: Python, Java, etc.
 - Web development: HTML, CSS, JavaScript, etc.
 - Soft skills: Teamwork, communication, etc.
 
 ## Projects
 - Project 1: [Link to Project 1](https://github.com/yourusername/project1)
 - Project 2: [Link to Project 2](https://github.com/yourusername/project2)
-
-## Certifications
-- Certification in XYZ (Month Year)
-
-## Awards and Honors
-- Any relevant awards or honors you've received.
-
-## References
-Available upon request.
