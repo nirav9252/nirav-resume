@@ -2,7 +2,7 @@
 ## Contact Information
 - Email: niravmotivaras9252@gmai.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nirav-motivaras)
-- GitHub: [GitHub Profile](https://github.com/nirav9252)
+- Contact: +91 9662634542
 
 ## Education
 - Degree in S.S.C., Sigma Institute of Porbandar, March-2014
@@ -18,9 +18,18 @@
 - Details of your internship experience.
 
 ## Skills
-- Web development: HTML, CSS, JavaScript, etc.
+- Web development: Node.js, React.js, HTML, CSS, JavaScript, etc.
 - Soft skills: Teamwork, communication, etc.
 
 ## Projects
-- Project 1: [Link to Project 1](https://github.com/yourusername/project1)
-- Project 2: [Link to Project 2](https://github.com/yourusername/project2)
+### HRMS:
+- The HRMS project aims to create a comprehensive Human Resource Management System to enhance the efficiency of HR processes within our organization. This system will serve as a centralized platform for managing employee data or information, payroll, leave, organization assets and more.
+- Technologies: React, Node.js, MYSQL 
+### Food Couture:
+- Food Couture offers to view new recipes video to create delicious food. You can purchase full courses video and also get pdf of recipes.
+- Technologies: React, Node.js, PostgreSQL
+- Link: [Food Couture](https://www.foodcouture.in/)
+### Organization Website:
+- In this website you can get detail about the organization like technology, services, blog and more. You can also view opening position and apply for this designation threw this website. You can get contact information for this organization.
+- Technologies: React, Node.js
+- Link: [SoftYoi](https://www.softyoi.com/)
