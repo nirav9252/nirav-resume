@@ -11,14 +11,10 @@
 - Degree in M.sc(IT), Shiri V. J. Modha College of Information Technology, April-2022
 
 ## Experience
-### Jr. JavaSciprt Developer, Softyoi LLP (October 2022 - Present)
-- Description of responsibilities and achievements.
-
-### Intern, SoftYoi LLP (July 2022 - September 2022)
-- Details of your internship experience.
+### Jr. JavaSciprt Developer, Softyoi LLP (July 2022 - Present)
 
 ## Skills
-- Web development: Node.js, React.js, HTML, CSS, JavaScript, etc.
+- Web development: Node.js, React.js, MYSQL, HTML, CSS, JavaScript, etc.
 - Soft skills: Teamwork, communication, etc.
 
 ## Projects
