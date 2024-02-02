@@ -1,4 +1,3 @@
-# resume
 # Nirav J. Motivaras
 ## Contact Information
 - Email: niravmotivaras9252@gmai.com
