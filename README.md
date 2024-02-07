@@ -1,6 +1,6 @@
 # Nirav J. Motivaras
 ## Contact Information
-- Email: niravmotivaras9252@gmai.com
+- Email: niravmotivaras9252@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nirav-motivaras)
 - Contact: +91 9662634542
 
