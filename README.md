@@ -20,7 +20,7 @@
 ## Projects
 ### HRMS:
 - The HRMS project aims to create a comprehensive Human Resource Management System to enhance the efficiency of HR processes within our organization. This system will serve as a centralized platform for managing employee data or information, payroll, leave, organization assets and more.
-- Technologies: React, Node.js, MYSQL
+- Technologies: React.js, Node.js, MYSQL, HTML, CSS
  
 ### Food Couture:
 - Food Couture offers to view new recipes video to create delicious food. You can purchase full courses video and also get pdf of recipes.
